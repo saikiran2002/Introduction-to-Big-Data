@@ -1,0 +1,679 @@
+===============================================
+OUTPUTS
+===============================================
+##########################################################################
+'VMs': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+'Execution Time': [1934, 1700, 1644, 1336, 882, 800, 750, 706, 700, 690] 
+##########################################################################
+dataset_years = (1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22)
+execution_times =([162, 183, 194, 201, 209, 211, 221, 227, 231, 246, 255, 259, 262, 271, 276, 282, 283, 287, 292, 297, 305, 307])
+##########################################################################
+---------------------------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------------------------
+Highest On-Time Performance	
+HA	0.9130613247134968
+AQ	0.8704614308249784
+ML (1)	0.8068837801472822
+Lowest On-Time Performance 	
+PI	0.6622176293682854
+EV	0.6931310266349684
+B6	0.7088574013567
+---------------------------------------------------
+Question 2(Airports Taxi Time):
+---------------------------------------------------
+Highest Taxi Time	
+CKB	197.85714285714286
+MKK	45.77816291161179
+VLD	22.280210396885032
+Lowest Taxi Time	
+CYS	1.3333333333333333
+BFF	1.3333333333333333
+PVU	1.7692307692307692
+Zero Data	
+LAR	0.0
+LBF	0.0
+RCA	0.0
+SKA	0.0
+-----------------------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 317868
+
+-------------------------------------------------------------
+10VMs/Increase data set (from year 1987 to year 2008)
+-------------------------------------------------------------
+
+---------------
+Year 1987
+---------------
+--------------------------------------
+Question 1(On Schedule Airlines):
+--------------------------------------
+Highest On-Time Performance	
+WN	0.763024908711
+AA	0.758395906745
+EA	0.721941192073
+Lowest On-Time Performance	
+PS	0.573811161328
+DL	0.600193858603
+AS	0.626649638143
+---------------------------------------
+Question 2(Airports Taxi Time):
+-----------------------------------------
+No data available for analysis.	
+-------------------------------------------
+Question 3(Cancellation Reasons):
+-------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1988
+-----------------------------------------
+Question 1(On Schedule Airlines):
+-----------------------------------------
+Highest On-Time Performance
+WN	0.814400744705
+HP	0.782835145936
+AA	0.781855726450
+Lowest On-Time Performance	
+NW	0.692211169060
+US	0.693095559678
+PI	0.694968499269
+---------------------------------------------
+Question 2(Airports Taxi Time):
+---------------------------------------------
+No data available for analysis.		
+---------------------------------------------
+Question 3(Cancellation Reasons):
+---------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1989
+---------------
+-----------------------------------------------
+Question 1(On Schedule Airlines):
+------------------------------------------------
+Highest On-Time Performance	
+WN	0.785484671489
+HP	0.776612238559
+AA	0.769328864955
+Lowest On-Time Performance	
+PI	0.662217629368
+US	0.668178439126
+UA	0.693519413587
+--------------------------------------------------
+Question 2(Airports Taxi Time):
+--------------------------------------------------
+No data available for analysis.	
+--------------------------------------------------
+Question 3(Cancellation Reasons):
+--------------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1990
+---------------
+------------------------------------------------------
+Question 1(On Schedule Airlines):
+------------------------------------------------------
+Highest On-Time Performance	
+WN	0.775724991222
+HP	0.775302664968
+AA	0.761007515300
+Lowest On-Time Performance	
+PI	0.662217629368
+UA	0.704616492312
+US	0.707228838702
+------------------------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------------------------
+No data available for analysis.		
+------------------------------------------------------
+Question 3(Cancellation Reasons):
+------------------------------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-1991
+---------------
+---------------------------------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------------------------------
+Highest On-Time Performance	
+ML (1)	0.806883780147
+WN	0.7822933803989086
+HP	0.7801342436618923
+Lowest On-Time Performance	
+PI	0.6622176293682854
+UA	0.7134938178831906
+PS	0.7139489385488438
+----------------------------------------------------------
+Question 2(Airports Taxi Time):
+----------------------------------------------------------
+No data available for analysis.	
+----------------------------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1992
+---------------
+--------------------------------------
+Question 1(On Schedule Airlines):
+--------------------------------------
+Highest On-Time Performance	
+WN	0.8082039866059741
+ML (1)	0.806883780147
+HP	0.7925729331588797
+Lowest On-Time Performance	
+PI	0.6622176293682854
+PS	0.7139489385488438
+DL	0.7218058197117049
+-----------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------------
+No data available for analysis.		
+-----------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1993
+---------------
+----------------------------------------------
+Question 1(On Schedule Airlines):
+----------------------------------------------
+Highest On-Time Performance	
+WN	0.819622580114469
+ML (1)	0.80688378014
+HP	0.793592371278819
+Lowest On-Time Performance	
+PI	0.6622176293682854
+PS	0.7139489385488438
+DL	0.7172046973752975
+--------------------------------------------------
+Question 2(Airports Taxi Time):
+--------------------------------------------------
+No data available for analysis.		
+--------------------------------------------------
+Question 3(Cancellation Reasons):
+--------------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1994
+---------------
+----------------------------------------------------
+Question 1(On Schedule Airlines):
+----------------------------------------------------
+Highest On-Time Performance	
+WN	0.8191049670959755
+ML (1)	0.806883780147
+HP	0.7864096889067392
+Lowest On-Time Performance	
+PI	0.6622176293682854
+PS	0.7139489385488438
+DL	0.7211829290461506
+-----------------------------------------------------
+Question 2(Airports Taxi Time):
+-----------------------------------------------------
+No data available for analysis.	
+-----------------------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1995
+---------------
+----------------------------------------------------------
+Question 1(On Schedule Airlines):
+----------------------------------------------------------
+Highest On-Time Performance	
+WN	0.810660402953308
+ML (1)	0.806883780147
+NW	0.7857280400821419
+Lowest On-Time Performance	
+PI	0.6622176293682854
+PS	0.7139489385488438
+DL	0.7195024423452635
+--------------------------------------------------------
+Question 2(Airports Taxi Time):
+--------------------------------------------------------
+Highest Taxi Time	
+JFK	16.125534471373985
+EWR	14.660862740803607
+DFW	14.176996975494419
+Lowest Taxi Time	
+GUM	3.4761904761904763
+KSM	3.9849624060150375
+DUT	4.191292875989446
+Zero Data	
+NONE	
+--------------------------------------------------------
+Question 3(Cancellation Reasons):
+---------------------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1996
+---------------
+-------------------------------------------
+Question 1(On Schedule Airlines):
+-------------------------------------------
+Highest On-Time Performance
+ML (1)	0.80688378014
+WN	0.803587646726603
+NW	0.781123812977306
+Lowest On-Time Performance	
+PI	0.662217629368285
+DL	0.712504359343000
+PS	0.713948938548843
+----------------------------------------------
+Question 2(Airports Taxi Time):
+----------------------------------------------
+Highest Taxi Time	
+JFK	16.91414278512428
+EWR	15.30181034992218
+DFW	14.22242715970179
+Lowest Taxi Time	
+GUM	3.42953020134228
+KSM	3.80203045685279
+DUT	3.95365853658536
+Zero Data	
+ABI	0.0
+----------------------------------------
+Question 3(Cancellation Reasons):
+----------------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-1997
+---------------
+---------------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------------
+Highest On-Time Performance	
+ML (1)	0.80688378014
+WN	0.798612606806010
+NW	0.774215475339800
+Lowest On-Time Performance	
+PI	0.662217629368285
+DL	0.709514904471772
+PS	0.713948938548843
+--------------------------------------
+Question 2(Airports Taxi Time):
+--------------------------------------
+Highest Taxi Time	
+JFK	16.888491810089
+EWR	15.672909418236
+DFW	14.218731745521
+Lowest Taxi Time
+GUM	3.4066666666666
+KSM	3.8020304568527
+DUT	3.8598045204642
+Zero Data	
+ABI	0.0
+---------------------------------------------
+Question 3(Cancellation Reasons):
+---------------------------------------------
+There is no the most common reason for flight cancellations.
+---------------
+year 1987-1998
+---------------
+---------------------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------------------
+Highest On-Time Performance	
+ML (1)	0.806883780147
+WN	0.7937811578581796
+NW	0.7700646761356009
+Lowest On-Time Performance	
+PI	0.662217629368285
+PS	0.713948938548843
+DL	0.714074477192659
+-----------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------------
+Highest Taxi Time	
+JFK	17.144303834124
+EWR	16.232759142955
+DFW	14.069960540270
+Lowest Taxi Time	
+GUM	3.4066666666666
+KSM	3.8020304568527
+DUT	3.8427768166089
+Zero Data	
+ABI	0.0
+GGG	0.0
+LNY	0.0
+MKK	0.0
+------------------------------------
+Question 3(Cancellation Reasons):
+-------------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-1999
+---------------
+-----------------------------------------
+Question 1(On Schedule Airlines):
+----------------------------------------
+Highest On-Time Performance	
+ML (1)	0.80688378014
+WN	0.788514865291291
+NW	0.771052074404690
+Lowest On-Time Performance	
+PI	0.662217629368285
+AS	0.712806336343940
+PS	0.713948938548843
+-----------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------------
+Highest Taxi Time	
+JFK	17.3483658719255
+EWR	16.6495768926621
+DFW	14.0542691497955
+Lowest Taxi Time	
+GUM	3.40666666666666
+DUT	3.65606361829025
+KSM	3.80203045685279
+Zero Data	
+ABI	0.0
+GGG	0.0
+LNY	0.0
+MKK	0.0
+---------------------------------------------
+Question 3(Cancellation Reasons):
+---------------------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-2000
+---------------
+----------------------------------------
+Question 1(On Schedule Airlines):
+------------------------------------------
+Highest On-Time Performance	
+AQ	0.87986743993372
+ML (1)	0.8068837801
+WN	0.77803432852734
+Lowest On-Time Performance	
+PI	0.66221762936828
+AS	0.70702694427434
+PS	0.71394893854884
+-------------------------------------------
+Question 2(Airports Taxi Time):
+-------------------------------------------
+Highest Taxi Time	
+JFK	17.6161691197285
+EWR	16.8146098555719
+LGA	14.5075355644522
+Lowest Taxi Time	
+GUM	3.40666666666666
+DUT	3.57649456521739
+KSM	3.80203045685279
+Zero Data	
+ABI	0.0
+GGG	0.0
+LNY	0.0
+MKK	0.0
+-----------------------------------------
+Question 3(Cancellation Reasons):
+------------------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-2001
+---------------
+--------------------------------------
+Question 1(On Schedule Airlines):
+-------------------------------------
+Highest On-Time Performance	
+AQ	0.826613477703376
+ML (1)	0.80688378014
+WN	0.779467341478821
+Lowest On-Time Performance	
+PI	0.662217629368285
+AS	0.702295088838205
+PS	0.713948938548843
+--------------------------------
+Question 2(Airports Taxi Time):
+--------------------------------
+Highest Taxi Time	
+JFK	17.45164872570114
+EWR	16.79948885435023
+LGA	14.69257931499733
+Lowest Taxi Time	
+GUM	3.406666666666666
+DUT	3.605410447761194
+KSM	3.802030456852792
+Zero Data	
+LNY	0.0
+MKK	0.0
+---------------------------------
+Question 3(Cancellation Reasons):
+----------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-2002
+---------------
+--------------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------------
+Highest On-Time Performance	
+AQ	0.8266134777033766
+ML (1)	0.806883780147
+WN	0.7809500592549015
+Lowest On-Time Performance	
+PI	0.6622176293682854
+AS	0.7063145738307368
+PS	0.713948938548843
+------------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------------
+Highest Taxi Time	
+ACY	169.5
+JFK	17.3548864021159
+EWR	16.6700239864061
+Lowest Taxi Time	
+GUM	3.40666666666666
+DUT	3.50964982093115
+KSM	3.80203045685279
+Zero Data	
+LNY	0.0
+MKK	0.0
+------------------------------------------
+Question 3(Cancellation Reasons):
+------------------------------------------
+There is no the most common reason for flight cancellations.	
+---------------
+year 1987-2003
+---------------
+-----------------------------------------
+Question 1(On Schedule Airlines):
+--------------------------------------------
+Highest On-Time Performance	
+HA	0.8875770020533
+OO	0.8608484151867
+AQ	0.8266134777033
+Lowest On-Time Performance	
+PI	0.6622176293682
+AS	0.7127809884489
+PS	0.7139489385488
+--------------------------------------
+Question 2(Airports Taxi Time):
+---------------------------------------
+Highest Taxi Time	
+VLD	20.803848750844
+PHF	18.289991682838
+JFK	17.031328375157
+Lowest Taxi Time	
+BFF	2.0
+FMN	2.5
+DUT	3.3669291338582
+Zero Data	
+PUB	0.0
+-----------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 22402
+---------------
+year 1987-2004
+---------------
+
+--------------------------------------
+Question 1(On Schedule Airlines):
+--------------------------------------
+Highest On-Time Performance	
+HA	0.91886795841040
+OO	0.83199703783876
+AQ	0.82661347770337
+Lowest On-Time Performance	
+PI	0.66221762936828
+PS	0.71394893854884
+AS	0.71486883257803
+----------------------------------
+Question 2(Airports Taxi Time):
+----------------------------------
+Highest Taxi Time	
+CKB	229.666666666
+MKK	45.7781629116
+GNV	29.2592808346
+Lowest Taxi Time
+PUB	1.125
+BFF	2.0
+DUT	3.35762564991
+Zero Data	
+SKA	0.
+------------------------------------
+Question 3(Cancellation Reasons):
+------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 81754
+---------------
+year 1987-2005
+---------------
+------------------------------------------
+Question 1(On Schedule Airlines):
+------------------------------------------
+Highest On-Time Performance
+HA	0.92665632616884
+AQ	0.82661347770337
+OO	0.82126307584471
+Lowest On-Time Performance	
+PI	0.66221762936828
+FL	0.70274033697729
+AS	0.71130411232829
+------------------------------------
+Question 2(Airports Taxi Time):
+-----------------------------------
+Highest Taxi Time	
+CKB	212.384615384615
+MKK	45.7781629116117
+FLO	30.6135989463286
+Lowest Taxi Time	
+PUB	0.69230769230769
+BFF	2.0
+FMN	3.125
+Zero Data	
+LAR	0.0
+ROW	0.0
+SKA	0.0
+---------------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 141104
+---------------
+year 1987-2006
+---------------
+---------------------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------------------
+Highest On-Time Performance	
+HA	0.924610819975339
+AQ	0.849015317286652
+ML (1)	0.80688378014
+Lowest On-Time Performance	
+PI	0.66221762936828
+EV	0.70458637410628
+FL	0.70510609879928
+----------------------------------------------
+Question 2(Airports Taxi Time):
+-----------------------------------------------
+Highest Taxi Time	
+CKB	197.857142857142
+MKK	45.7781629116117
+VLD	28.2214419475655
+Lowest Taxi Time	
+PUB	0.6
+BFF	2.0
+PVU	2.55555555555555
+Zero Data	
+LAR	0.0
+LBF	0.0
+RCA	0.0
+ROW	0.0
+SKA	0.0
+--------------------------------------------------
+Question 3(Cancellation Reasons):
+---------------------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 196759
+---------------
+year 1987-2007
+---------------
+---------------------------------------------
+Question 1(On Schedule Airlines):
+--------------------------------------------
+Highest On-Time Performance	
+HA	0.922295142383308
+AQ	0.867406351083440
+ML (1)	0.80688378014
+Lowest On-Time Performance	
+PI	0.6622176293682
+EV	0.6883638173556
+AS	0.7091436239109
+--------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------
+Highest Taxi Time	
+CKB	197.8571428571
+MKK	45.77816291161
+VLD	24.60286071596
+Lowest Taxi Time
+PUB	0.529411764705
+CYS	1.333333333333
+BFF	1.333333333333
+Zero Data	
+LAR	0.0
+LBF	0.0
+RCA	0.0
+SKA	0.0
+------------------------------------------------
+Question 3(Cancellation Reasons):
+-----------------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 263538
+---------------
+year 1987-2008
+----------------
+---------------------------------
+Question 1(On Schedule Airlines):
+---------------------------------
+Highest On-Time Performance	
+HA	0.9130613247134968
+AQ	0.8704614308249784
+ML (1)	0.806883780147
+Lowest On-Time Performance	
+PI	0.6622176293682854
+EV	0.6931310266349684
+B6	0.7088574013567
+------------------------------------
+Question 2(Airports Taxi Time):
+------------------------------------
+Highest Taxi Time	
+CKB	197.857142857142
+MKK	45.7781629116117
+VLD	22.2802103968850
+Lowest Taxi Time	
+CYS	1.33333333333333
+BFF	1.33333333333333
+PVU	1.76923076923076
+Zero Data	
+LAR	0.0
+LBF	0.0
+RCA	0.0
+SKA	0.0
+----------------------------------
+Question 3(Cancellation Reasons):
+-------------------------------------
+Most common cancellation reason (Code A: Carrier)	Count: 317868
